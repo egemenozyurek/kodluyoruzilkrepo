@@ -8,8 +8,6 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-[alt text](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png)
-
 ```bash
 git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
 ```
@@ -30,3 +28,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+[alt text] (https://raw.githubusercontent.com/Kodluyoruz/taskforce/git/git/markdown-nedir-nasil-kullaniriz-/figures/kodluyoruz_logo.jpg)
