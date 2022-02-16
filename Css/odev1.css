@@ -76,3 +76,15 @@ body {
 .bg-yellow {
   background-color: yellow;
 }
+
+.turuncu {
+  background-color: #ffa500;
+}
+
+p.mavi {
+  color: blue;
+}
+
+.container > p.intro + ul > li:first-child {
+  color: orange;
+}
